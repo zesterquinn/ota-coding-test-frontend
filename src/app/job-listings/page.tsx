@@ -1,5 +1,4 @@
 import JobList from "@/app/job-listings/_components/job-list";
-import SearchBar from "@/app/job-listings/_components/search-bar";
 
 const JobListingsPage = async () => {
   return (
